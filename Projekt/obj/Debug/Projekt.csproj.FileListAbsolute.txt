@@ -1,0 +1,17 @@
+C:\Users\alber\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\alber\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\alber\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\alber\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\alber\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alber\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\alber\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\alber\source\repos\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
